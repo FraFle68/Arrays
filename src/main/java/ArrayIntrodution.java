@@ -30,7 +30,6 @@ public class ArrayIntrodution {
             numbersAddition[i] = numbers[i] + numbersHigh[i];
         }
         printArray((numbersAddition));
-
     }
 
     public static int ArraySum(int[] numbers) {
