@@ -40,6 +40,7 @@ public class ArrayIntrodution {
         }
         return sum;
     }
+    
     public static int highestNumber(int[] numbers) {
         int maximum = Integer.MIN_VALUE;
         for(int number : numbers) {
